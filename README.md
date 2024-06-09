@@ -1,4 +1,4 @@
-# ReversePolishNotation
+# Reverse Polish Notation
 ***Start:** March 3<sup>rd</sup> 2023, **Finish:** March 24<sup>th</sup> 2023*
 
 An assignment for a second-year course: Algorithms & Data Structures.
